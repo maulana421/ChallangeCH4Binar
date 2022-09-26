@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChallangeCH4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tologin">tologin</string>
+    <string name="login">Login</string>
+    <string name="masukkan_username_anda">Masukkan Username Anda</string>
+    <string name="masukkan_password_anda">Masukkan Password Anda</string>
+    <string name="btnlogin">Login</string>
+    <string name="register">register</string>
+    <string name="registerlogo">registerlogo</string>
+    <string name="buat_akun">buat_akun</string>
+    <string name="silahkan_melakukan_registrasi">Silahkan Melakukan Registrasi</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="masukkan_password">Masukkan Password Anda</string>
+    <string name="masukkan_nama_anda">Masukkan Nama Anda</string>
+    <string name="masukkan_username_you">Masukkan Username Anda</string>
+    <string name="ulangi_password_anda">Ulangi Password Anda</string>
+    <string name="setelah_melakukan_registrasi_silahkan">Setelah Melakukan Registrasi, Silahkan</string>
+    <string name="reglogin">Login</string>
+    <string name="satu">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+</resources>

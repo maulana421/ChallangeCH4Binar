@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <View
+        android:layout_width="130dp"
+        android:layout_height="10dp"
+        android:background="@color/palete2"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:fontFamily="@font/bold"
+        android:textColor="@color/black"
+        android:textSize="17dp"
+        android:text="Apakah kamu akan menghapus catatan ini?"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Ya"
+        android:fontFamily="@font/poppins_regular"
+        android:backgroundTint="@color/palete3"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="Tidak"
+        android:backgroundTint="@color/palete2"/>
+
+
+
+</LinearLayout>
