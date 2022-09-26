@@ -55,7 +55,7 @@ class RegisterFragment : Fragment() {
                 }
 
             }else{
-                Toast.makeText(requireActivity(), "Data tidak boleh kosong", Toast.LENGTH_SHORT).show()
+                Toast.makeText(requireActivity(), "Data anda masih kosong", Toast.LENGTH_SHORT).show()
             }
         }
     }
